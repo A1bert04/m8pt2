@@ -1,0 +1,3 @@
+[submodule "m8pt2-lib"]
+	path = m8pt2-lib
+	url = https://github.com/A1bert04/m8pt2-lib
